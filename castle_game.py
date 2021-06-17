@@ -21,4 +21,4 @@ elif player_choice=="3":
 else:
     print("Try following directions.")
 
-    
+print("Run the game again to try again!")   
