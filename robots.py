@@ -14,3 +14,5 @@ elif user_reply=="only ones with laser eyes":
 
 else:
     print("Your human nonsense offends us.")
+
+input("Press enter to exit.")
