@@ -23,7 +23,7 @@ print( "Hello " + str(name) + "!")
 print(country)
 
 # Print out the user's age
-print("User's age is " + str(age) + ".")
+print(str(name) + "'s age is " + str(age) + ".")
 
 # With an f-string, print out the daily wage that was calculated
 print(f"{name}'s daily wage is ${daily_wage} .")
